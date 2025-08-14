@@ -1,0 +1,2 @@
+# discordbot
+sKorrybot kodları
